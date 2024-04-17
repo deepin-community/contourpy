@@ -1,3 +1,16 @@
+contourpy (1.0.7-3) unstable; urgency=medium
+
+  * Adopt Package. Add myself as Uploaders. Closes: #1065246.
+  * d/salsa-ci.yml: Enable salsa-ci.
+
+ -- Emmanuel Arias <eamanu@debian.org>  Thu, 28 Mar 2024 00:19:22 -0300
+
+contourpy (1.0.7-2) unstable; urgency=medium
+
+  * orphan
+
+ -- Sandro Tosi <morph@debian.org>  Sat, 02 Mar 2024 03:06:18 -0500
+
 contourpy (1.0.7-1) unstable; urgency=medium
 
   * New upstream release
